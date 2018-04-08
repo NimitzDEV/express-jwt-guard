@@ -15,5 +15,22 @@
     "express": "^4.16.3",
     "mocha": "^5.0.5",
     "supertest": "^3.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NimitzDEV/express-jwt-guard.git"
+  },
+  "keywords": [
+    "expressjs",
+    "connectjs",
+    "jsonwebtoken",
+    "jwt"
+  ],
+  "bugs": {
+    "url": "https://github.com/NimitzDEV/express-jwt-guard/issues"
+  },
+  "homepage": "https://github.com/NimitzDEV/express-jwt-guard#readme"
 }
